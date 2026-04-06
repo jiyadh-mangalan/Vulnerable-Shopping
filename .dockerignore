@@ -1,0 +1,16 @@
+.git
+.gitignore
+node_modules
+**/node_modules
+**/__pycache__
+**/*.pyc
+.venv
+venv
+logs
+*.log
+.env
+.env.*
+README.md
+plan.md
+implementation.md
+.cursor

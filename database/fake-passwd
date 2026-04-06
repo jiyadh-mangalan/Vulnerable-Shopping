@@ -1,0 +1,4 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+labuser:x:1000:1000:Vuln Lab User:/home/labuser:/bin/bash
+fake-service:x:999:999:Fake Service Account:/nonexistent:/usr/sbin/nologin
