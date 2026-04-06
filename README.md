@@ -1,4 +1,4 @@
-# Vuln Shopping Lab
+# Vulnerable Shopping Lab
 
 Intentionally vulnerable Amazon-style e-commerce application for **local security testing only**. Do not deploy to production or expose on the internet.
 
